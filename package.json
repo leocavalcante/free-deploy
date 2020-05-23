@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/leocavalcante/free-deploy#readme",
   "dependencies": {
+    "mongodb": "^3.5.7",
     "next": "^9.4.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
