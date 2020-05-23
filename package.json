@@ -1,0 +1,28 @@
+{
+  "name": "@leocavalcante/free-deploy",
+  "version": "1.0.0",
+  "description": "Full-stack React (Next.js) & MongoDB application exploring generous free plans from Vercel and Atlas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leocavalcante/free-deploy.git"
+  },
+  "keywords": [
+    "fullstack",
+    "react",
+    "nextjs",
+    "mongodb",
+    "free",
+    "vercel",
+    "atlas"
+  ],
+  "author": "leocavalcante <lc@leocavalcante.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leocavalcante/free-deploy/issues"
+  },
+  "homepage": "https://github.com/leocavalcante/free-deploy#readme"
+}
